@@ -1,5 +1,5 @@
 Git nuestro
-Git nuestro que estas en los repos
+<p><em>Git<em/em> nuestro que estas en los repos<br/>
 Comprimidos sean tus commits
 Venga a nosotrros tu log
 En el local como en el remote
